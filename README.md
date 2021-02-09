@@ -1,4 +1,4 @@
-### Projet d'introduction à Github (chiffre de César                                                                                                                                               #### 1. Le chiffre 
+### Projet d'introduction à Github (chiffre de César)                                                                                                                                               
 
 #### 1. Le chiffre de César
 Le chiffre de César est une méthode de chiffrement très simple utilisée par Jules César dans ses correpondances secrètes. Pour obtenir le texte chiffré, on remplace simplement chaque lettre du texte en clair par la lettre qui se trouve trois place plus loin dans l'alphabet "modulo 26". Ainsi, A est remplacé par D, B par E, W par Z, X par A etc. On utilise parfois un décalage autre que 3.
